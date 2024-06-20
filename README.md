@@ -1,6 +1,6 @@
 # clim8
 
-A new Flutter project.
+A Weather App
 
 ## Getting Started
 
